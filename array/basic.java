@@ -12,7 +12,7 @@ public class basic {
 	         System.out.println(myList[i] + " ");
 		}
 		
-		int [] mylist = {23,45,67,78,90,10};
+		int [] mylist = {24,45,67,78,90,10};
 		char [] ch= {'d','t','g','h'};
 		System.out.println("output :" + mylist.length);
 		System.out.println();
